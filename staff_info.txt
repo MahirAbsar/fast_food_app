@@ -1,0 +1,23 @@
+   
+
+
+                             STAFF INFORMATION
+
+
+
+
+   EMPLOYEE                     JOINING DATE                       SALARY(T\K)
+
+ 1.Md.Mohibul Alam               12/01/2015                          35,000
+ 
+ 2.Jahangir Molla                14/02/2015                          35,000
+
+ 3.Neamol Mawla                  20/05/2015                          30,000
+
+ 4.Anwar Hossain                 24/05/2015                          30,000
+
+ 5.Ezazur Rahman                 01/08/2015                          30,000
+
+ 6.Kabir Nayek                   02/09/2015                          25,000
+
+ 
